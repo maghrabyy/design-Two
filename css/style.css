@@ -1,0 +1,63 @@
+/*
+font-family: 'Changa', sans-serif;
+font-family: 'Gruppo', cursive;
+font-family: 'Kanit', sans-serif;
+font-family: 'Lobster Two', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+.header-cover .bgImg{
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-image: url(/assets/images/blackcat2.jpg);
+    opacity: 0.8;
+    position: relative;
+}
+
+.bgContent{
+    position: absolute;
+}
+
+.header-cover .bgContent img{
+    height: 150px;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+}
+
+h2,h3{
+    font-family: 'Kanit', sans-serif;
+}
+
+p{
+    font-family: 'Nunito', sans-serif; 
+}
+
+.navbar li{
+    font-family: 'Changa', sans-serif;
+}
+
+.hrText{
+    width: 100%; 
+    border-bottom: 1px solid black; 
+    line-height: 0.1em;
+    text-align: center;
+}
+
+.hrText span{
+    background-color: #fff;  
+    padding: 0 10px;
+}
+
+.card img{
+    height: 250px;
+}
+
+footer{
+    background-color: #2C3333;
+}
