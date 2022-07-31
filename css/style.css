@@ -37,6 +37,10 @@ p{
     font-family: 'Nunito', sans-serif; 
 }
 
+.navbar .navbar-brand span{
+    font-family: 'Righteous', cursive;
+}
+
 .navbar li{
     font-family: 'Changa', sans-serif;
 }
