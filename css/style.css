@@ -53,6 +53,14 @@ p{
     padding: 0 10px;
 }
 
+.card{
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.1,1.1);
+}
+
 .card img{
     height: 250px;
 }
